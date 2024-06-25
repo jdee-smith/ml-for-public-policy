@@ -8,7 +8,7 @@ Reading related to machine learning and prediction policy problems.
 
 [Athey, S. (2017). *Beyond prediction: Using big data for policy problems.* Science, *355*(6324), 483-485.](https://scholar.harvard.edu/files/people_analytics/files/beyond_prediction.pdf)
 
-[Bansak, K., Ferwerda, J., Hainmueller, J., Dillon, A., Hangartner, D., Lawrence, D., & Weinstein, J. (2018). *Improving refugee integration through data-driven algorithmic assignment.* Science, *359*(6373), 325-329.]()
+[Bansak, K., Ferwerda, J., Hainmueller, J., Dillon, A., Hangartner, D., Lawrence, D., & Weinstein, J. (2018). *Improving refugee integration through data-driven algorithmic assignment.* Science, *359*(6373), 325-329.](https://www.science.org/doi/epdf/10.1126/science.aao4408)
 
 [Dressel, J. & Farid, H. (2018). *The accuracy, fairness, and limits of predicting recidivism.* Science Advances, *4*(1)](https://www.science.org/doi/reader/10.1126/sciadv.aao5580)
 
@@ -17,3 +17,5 @@ Reading related to machine learning and prediction policy problems.
 [Coyle, D. & Weller, A. (2020). *'Explaining' machine learning reveals policy challenges.* Science, *368*(6498), 1433-1434.](http://lcfi.ac.uk/media/uploads/files/CoyleWeller_ExpML_Science_June20.pdf)
 
 [Peet, E.D., Vegetabile, B.G., Cefalu, M., Pane, J.D., Damberg, C.L. (2022). *Machine learning in public policy: The perils and promises of interpretability.* RAND Corporation.](https://www.rand.org/content/dam/rand/pubs/perspectives/PEA800/PEA828-1/RAND_PEA828-1.pdf)
+
+[Ludden, J. (2023, October 4). Los Angeles is using AI to predict who might become homeless and help before they do. *National Public Radio (NPR)*.](https://www.npr.org/2023/10/04/1202374047/los-angeles-is-using-ai-to-predict-who-might-become-homeless-and-help-before-the)
